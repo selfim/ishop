@@ -1,3 +1,3 @@
 # yshop
-An electronic store based on Yii2 
+An electronic store based on origin php and mysql
 
